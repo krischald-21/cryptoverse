@@ -12,6 +12,9 @@ const { Title } = Typography;
 const Homepage = () => {
   const { data, isFetching } = useGetCryptosQuery(10);
   const globalStats = data?.data?.stats;
+  console.log(globalStats);
+  console.log(import.meta.env.VITE_BING_RAPIDAPI_HOST);
+  console.log(process.env.VITE_BING_RAPIDAPI_HOST);
 
   if (isFetching) return <Loader />;
 
