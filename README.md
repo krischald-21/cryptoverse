@@ -1,4 +1,4 @@
-# 
+# CryptoVerse
 ### Crypto Blog Web App
 
 A Crypto Blog web app that provides details of top cryptocurrencies along with recent news on them.
