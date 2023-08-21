@@ -69,13 +69,20 @@ The app is deployed and accessible at <a href="https://vite-crypto-app.netlify.a
 
 ## Screenshots
 
-![image](https://github.com/krischald-21/cryptoverse/assets/113814736/b1c36252-bb40-47b3-bd66-67de11503fd5)
+![image](https://github.com/krischald-21/cryptoverse/assets/113814736/62f21793-7753-4af2-8e58-75ecbc3f5ce0)
+
 Caption: Homepage.
-![image](https://github.com/krischald-21/cryptoverse/assets/113814736/2bd1c922-ca79-4eb5-8abf-be296adf2ae9)
+
+![image](https://github.com/krischald-21/cryptoverse/assets/113814736/617de66d-c71b-43f6-a55b-f537a50c68d4)
+
 Caption: News Section.
-![image](https://github.com/krischald-21/cryptoverse/assets/113814736/9cde5751-20e3-433e-b17a-7f4ad2329600)
+
+![image](https://github.com/krischald-21/cryptoverse/assets/113814736/2d428b7b-4df8-4463-857f-0b34ff05ed64)
+
 Caption: Crytocurrencies Page
-![image](https://github.com/krischald-21/cryptoverse/assets/113814736/4cbaa162-dc20-47b2-b245-f8982ff26fcf)
+
+![image](https://github.com/krischald-21/cryptoverse/assets/113814736/d48fcd3d-f8c5-4625-a785-4ce4f271712a)
+
 Caption: Line Chart in Cryptocurrencies' detail Page
 
 ## Acknowledgements
