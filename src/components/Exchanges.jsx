@@ -4,6 +4,7 @@ import { Collapse, Row, Col, Typography, Avatar } from "antd";
 import HTMLReactParser from "html-react-parser";
 
 import { useGetExchangesQuery } from "../services/cryptoApi";
+import Loader from "./Loader";
 
 const { Text } = Typography;
 const { Panel } = Collapse;
@@ -13,7 +14,12 @@ const Exchanges = () => {
   const exchangesList = data?.data?.exchanges;
 
   if (isFetching || !exchangesList)
-    return "Out to Purchase Premium API for this page. Will be back soon!";
+    return (
+      <>
+        <Loader />
+        Out to Purchase Premium API for this page. Will be back soon!
+      </>
+    );
 
   return (
     <>
