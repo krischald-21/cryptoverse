@@ -28,9 +28,9 @@ A Crypto Blog web app that provides details of top cryptocurrencies along with r
 
 2. Navigate to the project directory:
 
-  ```terminal
-  cd cryptoverse
-  ```
+   ```terminal
+      cd cryptoverse
+   ```
   
 3. Install Dependencies
 
@@ -43,20 +43,20 @@ A Crypto Blog web app that provides details of top cryptocurrencies along with r
 1. Obtain API configurations from RapidAPI for Coinranking API and Bing News API.
 2. Create a `.env` file in the root directory and add your API keys:
 
-  ```txt
-    VITE_COINRANKING_RAPIDAPI_KEY=your-coinranking-api-key
-    VITE_COINRANKING_RAPIDAPI_HOST=your-coinranking-host
-    VITE_BING_APIS_SDK=your-bingnews-api-sdk,
-    VITE_BING_RAPIDAPI_KEY=your-bingnews-api-key
-    VITE_BING_RAPIDAPI_HOST=your-bingnews-host
-  ```
+   ```txt
+      VITE_COINRANKING_RAPIDAPI_KEY=your-coinranking-api-key
+      VITE_COINRANKING_RAPIDAPI_HOST=your-coinranking-host
+      VITE_BING_APIS_SDK=your-bingnews-api-sdk,
+      VITE_BING_RAPIDAPI_KEY=your-bingnews-api-key
+      VITE_BING_RAPIDAPI_HOST=your-bingnews-host
+   ```
 
 ## Usage
 1. Run the development server:
 
-  ```nodejs
-  npm run dev
-  ```
+   ```nodejs
+      npm run dev
+   ```
 
 2. Open your browser and navigate to the designated localhost port provided by vite on the terminal:
    ```example
